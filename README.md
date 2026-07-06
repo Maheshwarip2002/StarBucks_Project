@@ -14,20 +14,6 @@ The objective of this project is to analyze Starbucks sales and performance data
 - **Excel/CSV** — source data format
 
 
-**Data Source**
-
-The dataset includes Starbucks sales records with details such as order dates, product categories, quantities sold, revenue, and store locations.
-*(Replace this with your actual data source — e.g., Kaggle dataset link, or note if it's a custom/sample dataset)*
-
-**Methodology**
-
-1. **Data Collection** — Gathered raw Starbucks sales data
-2. **Data Cleaning** — Used Power Query to remove duplicates, handle missing values, and format columns correctly
-3. **Data Modeling** — Built relationships between tables (Sales, Products, Stores, Dates)
-4. **DAX Measures** — Created calculated fields such as Total Revenue, Average Order Value, and Growth %
-5. **Visualization** — Built interactive charts, maps, and KPI cards
-6. **Dashboard Design** — Arranged visuals into a clean, easy-to-navigate report layout
-
 
 **Dashboard Features**
 - Sales trend analysis over time (monthly/yearly)
