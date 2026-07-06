@@ -51,7 +51,8 @@ The dataset includes Starbucks sales records with details such as order dates, p
 - Expand dashboard with customer segmentation analysis
 - Publish report to Power BI Service for wider access
 
-👤 Author
 
-**Maheshwaro Phalke**
+👤 Author
+**Maheshwari Phalke**
+
 **🔗https://www.linkedin.com/in/maheshwari-phalke-9aa307222/**
